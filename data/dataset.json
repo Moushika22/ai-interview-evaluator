@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is Object-Oriented Programming?",
+    "ideal_answer": "Object-Oriented Programming is a programming paradigm based on objects and classes that includes concepts like encapsulation, inheritance, polymorphism and abstraction."
+  },
+  {
+    "question": "What is encapsulation?",
+    "ideal_answer": "Encapsulation is the concept of wrapping data and methods into a single unit and restricting direct access to some of the object's components."
+  },
+  {
+    "question": "What is inheritance?",
+    "ideal_answer": "Inheritance is a mechanism where one class acquires the properties and behavior of another class, promoting code reuse."
+  },
+  {
+    "question": "What is polymorphism?",
+    "ideal_answer": "Polymorphism allows objects to take multiple forms, typically through method overriding or method overloading."
+  },
+  {
+    "question": "What is abstraction?",
+    "ideal_answer": "Abstraction is the concept of hiding implementation details and showing only essential features of an object."
+  },
+  {
+    "question": "What is a database?",
+    "ideal_answer": "A database is an organized collection of data that can be easily accessed, managed and updated."
+  },
+  {
+    "question": "What is DBMS?",
+    "ideal_answer": "DBMS stands for Database Management System, which is software used to create, manage and manipulate databases."
+  },
+  {
+    "question": "What is normalization?",
+    "ideal_answer": "Normalization is the process of organizing data in a database to reduce redundancy and improve data integrity."
+  },
+  {
+    "question": "What is a primary key?",
+    "ideal_answer": "A primary key is a unique identifier for each record in a table and cannot contain null values."
+  },
+  {
+    "question": "What is a foreign key?",
+    "ideal_answer": "A foreign key is a field in one table that links to the primary key in another table to maintain referential integrity."
+  },
+  {
+    "question": "What is an operating system?",
+    "ideal_answer": "An operating system is system software that manages hardware resources and provides services for computer programs."
+  },
+  {
+    "question": "What is a process?",
+    "ideal_answer": "A process is a program in execution that contains its own memory space, resources and state."
+  },
+  {
+    "question": "What is a thread?",
+    "ideal_answer": "A thread is the smallest unit of execution within a process and shares resources with other threads of the same process."
+  },
+  {
+    "question": "What is deadlock?",
+    "ideal_answer": "Deadlock is a situation where two or more processes are unable to proceed because each is waiting for resources held by the others."
+  },
+  {
+    "question": "What is CPU scheduling?",
+    "ideal_answer": "CPU scheduling is the process of selecting which process will use the CPU at a given time."
+  },
+  {
+    "question": "What is networking?",
+    "ideal_answer": "Networking is the practice of connecting computers and devices to share resources and information."
+  },
+  {
+    "question": "What is an IP address?",
+    "ideal_answer": "An IP address is a unique identifier assigned to each device connected to a network."
+  },
+  {
+    "question": "What is DNS?",
+    "ideal_answer": "DNS stands for Domain Name System, which translates domain names into IP addresses."
+  },
+  {
+    "question": "What is HTTP?",
+    "ideal_answer": "HTTP stands for HyperText Transfer Protocol and is used for communication between web clients and servers."
+  },
+  {
+    "question": "What is TCP?",
+    "ideal_answer": "TCP is a connection-oriented protocol that ensures reliable data transmission between devices."
+  },
+  {
+    "question": "What is Python?",
+    "ideal_answer": "Python is a high-level, interpreted programming language known for its readability and simplicity."
+  },
+  {
+    "question": "What are lists in Python?",
+    "ideal_answer": "Lists in Python are ordered, mutable collections that can store multiple items of different data types."
+  },
+  {
+    "question": "What is a dictionary in Python?",
+    "ideal_answer": "A dictionary in Python is a collection of key-value pairs used to store data."
+  },
+  {
+    "question": "What is a function?",
+    "ideal_answer": "A function is a reusable block of code that performs a specific task."
+  },
+  {
+    "question": "What is recursion?",
+    "ideal_answer": "Recursion is a technique where a function calls itself to solve a problem."
+  }
+]
